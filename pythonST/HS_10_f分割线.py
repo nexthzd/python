@@ -16,4 +16,4 @@ def print_lines(char,times):
         print_line(char,times)
         row+=1
 
-name='黑马程序'
+name='z张丑逼张磊'
